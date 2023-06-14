@@ -1,0 +1,70 @@
+
+##GENERAL -------------------------------------------------
+
+#required 
+indicator_name: Number of spinoffs created.
+
+
+#required 
+indicator_number: 9.5.6
+
+#required 
+source_active_1: true
+
+#Optional
+source_organisation_1: Periphery
+
+#required 
+computation_units: Percentage
+
+#required 
+indicator_available: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
+
+
+#required. Options: not_available, challenges_remain, aproaching_target, target_achieved
+progress_status: not_available
+
+
+#METADATA -------------------------------------------------
+
+#required
+DG_INDICATOR_INFO: >-
+ Goal 9.5	Increase scientific research and innovation
+
+#required
+SDG_TARGET: >-
+  Goal 9.5	Increase scientific research and innovation
+
+#required
+SDG_INDICATOR: >-
+  9.5.6	Number of spinoffs created.
+
+#optional
+ORGANISATION_UNIT: >-
+  Periphery
+
+#optional
+STAT_CONC_DEF: |
+  #### Indicator type:
+
+  Teaching / Research
+
+  #### Linked Area of Action:
+  
+  Investigative capacity
+
+  #### Risk Measurement:
+
+  --
+
+
+##GRAPH AND TABLE DATA OPTIONS -------------------------------------------------
+
+#required to show 
+graph_title: Number of spinoffs created.
+
+#required to show graph
+graph_type: line
+
+#required to show. Options: complete, notstarted, notapplicable
+reporting_status: notstarted

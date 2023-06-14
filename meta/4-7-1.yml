@@ -1,0 +1,69 @@
+
+##GENERAL -------------------------------------------------
+
+#required 
+indicator_name: Nº or Percentage (%) of the university population that participates in programs/activities that promote education for sustainable development
+
+#required 
+indicator_number: 4.7.1
+
+#required 
+source_active_1: true
+
+#Optional
+source_organisation_1: Periphery
+
+#required 
+computation_units: Percentage
+
+#required 
+indicator_available: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
+
+
+#required. Options: not_available, challenges_remain, aproaching_target, target_achieved
+progress_status: not_available
+
+
+#METADATA -------------------------------------------------
+
+#required
+DG_INDICATOR_INFO: >-
+ Goal 4.7	Ensure that students acquire knowledge about sustainable development
+
+#required
+SDG_TARGET: >-
+  Goal 4.7	Ensure that students acquire knowledge about sustainable development
+
+#required
+SDG_INDICATOR: >-
+  4.7.1	Nº or Percentage (%) of the university population that participates in programs/activities that promote education for sustainable development
+
+#optional
+ORGANISATION_UNIT: >-
+  Periphery
+
+#optional
+STAT_CONC_DEF: |
+  #### Indicator type:
+
+  Interest groups
+
+  #### Linked Area of Action:
+  
+  Education Sustainable Development
+
+  #### Risk Measurement:
+
+  (!)
+
+
+##GRAPH AND TABLE DATA OPTIONS -------------------------------------------------
+
+#required to show 
+graph_title: Nº or Percentage (%) of the university population that participates in programs/activities that promote education for sustainable development
+
+#required to show graph
+graph_type: line
+
+#required to show. Options: complete, notstarted, notapplicable
+reporting_status: notstarted

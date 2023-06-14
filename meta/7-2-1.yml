@@ -1,0 +1,70 @@
+
+##GENERAL -------------------------------------------------
+
+#required 
+indicator_name: Percentage (%) of energy consumed that comes from renewable sources with respect to total consumption.
+
+
+#required 
+indicator_number: 7.2.1
+
+#required 
+source_active_1: true
+
+#Optional
+source_organisation_1: UPO
+
+#required 
+computation_units: Percentage
+
+#required 
+indicator_available: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
+
+
+#required. Options: not_available, challenges_remain, aproaching_target, target_achieved
+progress_status: not_available
+
+
+#METADATA -------------------------------------------------
+
+#required
+DG_INDICATOR_INFO: >-
+ Goal 7.2	Promotion of renewable energy
+
+#required
+SDG_TARGET: >-
+  Goal 7.2	Promotion of renewable energy
+
+#required
+SDG_INDICATOR: >-
+  7.2.1	Percentage (%) of energy consumed that comes from renewable sources with respect to total consumption.
+
+#optional
+ORGANISATION_UNIT: >-
+  UPO
+
+#optional
+STAT_CONC_DEF: |
+  #### Indicator type:
+
+  Institutional policy
+
+  #### Linked Area of Action:
+  
+  Sustainable energy
+
+  #### Risk Measurement:
+
+  (!)
+
+
+##GRAPH AND TABLE DATA OPTIONS -------------------------------------------------
+
+#required to show 
+graph_title: Percentage (%) of energy consumed that comes from renewable sources with respect to total consumption.
+
+#required to show graph
+graph_type: line
+
+#required to show. Options: complete, notstarted, notapplicable
+reporting_status: notstarted

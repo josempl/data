@@ -1,0 +1,70 @@
+
+##GENERAL -------------------------------------------------
+
+#required 
+indicator_name: Average water consumption (litres) per person in the university community per year
+
+
+#required 
+indicator_number: 6.4.1
+
+#required 
+source_active_1: true
+
+#Optional
+source_organisation_1: Periphery
+
+#required 
+computation_units: Percentage
+
+#required 
+indicator_available: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
+
+
+#required. Options: not_available, challenges_remain, aproaching_target, target_achieved
+progress_status: not_available
+
+
+#METADATA -------------------------------------------------
+
+#required
+DG_INDICATOR_INFO: >-
+ Goal 6.4	Efficient use of water resources
+
+#required
+SDG_TARGET: >-
+  Goal 6.4	Efficient use of water resources
+
+#required
+SDG_INDICATOR: >-
+  6.4.1	Average water consumption (litres) per person in the university community per year
+
+#optional
+ORGANISATION_UNIT: >-
+  Periphery
+
+#optional
+STAT_CONC_DEF: |
+  #### Indicator type:
+
+  Interest groups
+
+  #### Linked Area of Action:
+  
+  Efficient resource management
+
+  #### Risk Measurement:
+
+  --
+
+
+##GRAPH AND TABLE DATA OPTIONS -------------------------------------------------
+
+#required to show 
+graph_title: Average water consumption (litres) per person in the university community per year
+
+#required to show graph
+graph_type: line
+
+#required to show. Options: complete, notstarted, notapplicable
+reporting_status: notstarted

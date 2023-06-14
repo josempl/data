@@ -1,0 +1,69 @@
+
+##GENERAL -------------------------------------------------
+
+#required 
+indicator_name: Tons of Electrical and Electronic Waste generated per year per capita on campus
+
+
+#required 
+indicator_number: 12.4.2
+
+#required 
+source_active_1: true
+
+#Optional
+source_organisation_1: UPO
+
+#required 
+computation_units: Percentage
+
+#required 
+indicator_available: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
+
+
+#required. Options: not_available, challenges_remain, aproaching_target, target_achieved
+progress_status: not_available
+
+
+#METADATA -------------------------------------------------
+
+#required
+DG_INDICATOR_INFO: >-
+ Goal 12.4	Ecological management of waste and residues
+
+#required
+SDG_TARGET: >-
+  Goal 12.4	Ecological management of waste and residues
+#required
+SDG_INDICATOR: >-
+  12.4.2	Tons of Electrical and Electronic Waste generated per year per capita on campus
+
+#optional
+ORGANISATION_UNIT: >-
+  UPO
+
+#optional
+STAT_CONC_DEF: |
+  #### Indicator type:
+
+  Institutional policy
+
+  #### Linked Area of Action:
+  
+  Waste management
+
+  #### Risk Measurement:
+
+  (!)
+
+
+##GRAPH AND TABLE DATA OPTIONS -------------------------------------------------
+
+#required to show 
+graph_title: Tons of Electrical and Electronic Waste generated per year per capita on campus
+
+#required to show graph
+graph_type: line
+
+#required to show. Options: complete, notstarted, notapplicable
+reporting_status: notstarted

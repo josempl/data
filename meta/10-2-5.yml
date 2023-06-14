@@ -1,0 +1,70 @@
+
+##GENERAL -------------------------------------------------
+
+#required 
+indicator_name: Number of agreements with entities that work in vulnerable areas of the city.
+
+
+#required 
+indicator_number: 10.2.5
+
+#required 
+source_active_1: true
+
+#Optional
+source_organisation_1: Periphery
+
+#required 
+computation_units: Percentage
+
+#required 
+indicator_available: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
+
+
+#required. Options: not_available, challenges_remain, aproaching_target, target_achieved
+progress_status: not_available
+
+
+#METADATA -------------------------------------------------
+
+#required
+DG_INDICATOR_INFO: >-
+ Goal 10.2	Promote the inclusion of people regardless of disability, origin, ethnicity or situation. econ.
+
+#required
+SDG_TARGET: >-
+  Goal 10.2	Promote the inclusion of people regardless of disability, origin, ethnicity or situation. econ.
+
+#required
+SDG_INDICATOR: >-
+  10.2.5	Number of agreements with entities that work in vulnerable areas of the city.
+
+#optional
+ORGANISATION_UNIT: >-
+  Periphery
+
+#optional
+STAT_CONC_DEF: |
+  #### Indicator type:
+
+  Interest groups
+
+  #### Linked Area of Action:
+  
+  Social inclusion
+
+  #### Risk Measurement:
+
+  --
+
+
+##GRAPH AND TABLE DATA OPTIONS -------------------------------------------------
+
+#required to show 
+graph_title: Number of agreements with entities that work in vulnerable areas of the city.
+
+#required to show graph
+graph_type: line
+
+#required to show. Options: complete, notstarted, notapplicable
+reporting_status: notstarted

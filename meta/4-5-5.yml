@@ -1,0 +1,69 @@
+
+##GENERAL -------------------------------------------------
+
+#required 
+indicator_name: Percentage (%) of the university community that participates in training actions for attention to diversity
+
+#required 
+indicator_number: 4.5.5
+
+#required 
+source_active_1: true
+
+#Optional
+source_organisation_1: UPO
+
+#required 
+computation_units: Percentage
+
+#required 
+indicator_available: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
+
+
+#required. Options: not_available, challenges_remain, aproaching_target, target_achieved
+progress_status: not_available
+
+
+#METADATA -------------------------------------------------
+
+#required
+DG_INDICATOR_INFO: >-
+ Goal 4.5	Eliminate gender disparities and ensure access to people with functional diversity
+
+#required
+SDG_TARGET: >-
+  Goal 4.5	Eliminate gender disparities and ensure access to people with functional diversity
+
+#required
+SDG_INDICATOR: >-
+  4.5.5	Percentage (%) of the university community that participates in training actions for attention to diversity
+
+#optional
+ORGANISATION_UNIT: >-
+  UPO
+
+#optional
+STAT_CONC_DEF: |
+  #### Indicator type:
+
+  Teaching / Research
+
+  #### Linked Area of Action:
+  
+  Improve Diversity
+
+  #### Risk Measurement:
+
+  --
+
+
+##GRAPH AND TABLE DATA OPTIONS -------------------------------------------------
+
+#required to show 
+graph_title: Percentage (%) of the university community that participates in training actions for attention to diversity
+
+#required to show graph
+graph_type: line
+
+#required to show. Options: complete, notstarted, notapplicable
+reporting_status: notstarted

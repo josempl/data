@@ -1,0 +1,69 @@
+
+##GENERAL -------------------------------------------------
+
+#required 
+indicator_name: Participation of the university community in decision-making.
+
+
+#required 
+indicator_number: 16.7.1
+
+#required 
+source_active_1: true
+
+#Optional
+source_organisation_1: Periphery
+
+#required 
+computation_units: Percentage
+
+#required 
+indicator_available: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
+
+
+#required. Options: not_available, challenges_remain, aproaching_target, target_achieved
+progress_status: not_available
+
+
+#METADATA -------------------------------------------------
+
+#required
+DG_INDICATOR_INFO: >-
+ Goal 16.7	Guarantee participatory decisions
+
+#required
+SDG_TARGET: >-
+  Goal 16.7	Guarantee participatory decisions
+#required
+SDG_INDICATOR: >-
+  16.7.1	Participation of the university community in decision-making.
+
+#optional
+ORGANISATION_UNIT: >-
+  Periphery
+
+#optional
+STAT_CONC_DEF: |
+  #### Indicator type:
+
+  Institutional policy
+
+  #### Linked Area of Action:
+  
+  Stake
+
+  #### Risk Measurement:
+
+  --
+
+
+##GRAPH AND TABLE DATA OPTIONS -------------------------------------------------
+
+#required to show 
+graph_title: Participation of the university community in decision-making.
+
+#required to show graph
+graph_type: line
+
+#required to show. Options: complete, notstarted, notapplicable
+reporting_status: notstarted

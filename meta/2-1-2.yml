@@ -1,0 +1,66 @@
+
+##GENERAL -------------------------------------------------
+
+#required 
+indicator_name:  Percentage of cafeterias on campus that offer a menu with local and seasonal products and also have fair trade products over the total number of said establishments.
+#required 
+indicator_number: 2.1.2
+
+#required 
+source_active_1: true
+
+#Optional
+source_organisation_1: UPO
+
+#required 
+computation_units: Percentage
+
+#required 
+indicator_available: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
+
+
+#required. Options: not_available, challenges_remain, aproaching_target, target_achieved
+progress_status: not_available
+
+
+#METADATA -------------------------------------------------
+
+#required
+DG_INDICATOR_INFO: >-
+ Goal 2.1	Ensure access for all people to healthy, nutritious and sufficient food
+#required
+SDG_TARGET: >-
+ Goal 2.1	Ensure access for all people to healthy, nutritious and sufficient food
+#required
+SDG_INDICATOR: >-
+ 2.1.2	Percentage of cafeterias on campus that offer a menu with local and seasonal products and also have fair trade products over the total number of said establishments.
+
+#optional
+ORGANISATION_UNIT: >-
+  UPO
+
+#optional
+STAT_CONC_DEF: |
+  #### Indicator type:
+
+  institutional policy
+
+  #### Linked Area of Action:
+  
+  Sustainable and responsible recruitment
+
+  #### Risk Measurement:
+
+  --
+
+
+##GRAPH AND TABLE DATA OPTIONS -------------------------------------------------
+
+#required to show 
+graph_title:  Percentage of cafeterias on campus that offer a menu with local and seasonal products and also have fair trade products over the total number of said establishments.
+
+#required to show graph
+graph_type: line
+
+#required to show. Options: complete, notstarted, notapplicable
+reporting_status: notstarted

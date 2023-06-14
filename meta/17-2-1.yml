@@ -1,0 +1,69 @@
+
+##GENERAL -------------------------------------------------
+
+#required 
+indicator_name: Volume of euros (financing) obtained annually for development cooperation projects (compared to previous editions)
+
+
+#required 
+indicator_number: 17.2.1
+
+#required 
+source_active_1: true
+
+#Optional
+source_organisation_1: Periphery
+
+#required 
+computation_units: Percentage
+
+#required 
+indicator_available: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
+
+
+#required. Options: not_available, challenges_remain, aproaching_target, target_achieved
+progress_status: not_available
+
+
+#METADATA -------------------------------------------------
+
+#required
+DG_INDICATOR_INFO: >-
+ Goal 17.2	Fulfill commitments in relation to Development Aid
+
+#required
+SDG_TARGET: >-
+  Goal 17.2	Fulfill commitments in relation to Development Aid
+#required
+SDG_INDICATOR: >-
+  17.2.1	Volume of euros (financing) obtained annually for development cooperation projects (compared to previous editions)
+
+#optional
+ORGANISATION_UNIT: >-
+  Periphery
+
+#optional
+STAT_CONC_DEF: |
+  #### Indicator type:
+
+  Institutional policy
+
+  #### Linked Area of Action:
+  
+  Development Cooperation
+
+  #### Risk Measurement:
+
+  --
+
+
+##GRAPH AND TABLE DATA OPTIONS -------------------------------------------------
+
+#required to show 
+graph_title: Volume of euros (financing) obtained annually for development cooperation projects (compared to previous editions)
+
+#required to show graph
+graph_type: line
+
+#required to show. Options: complete, notstarted, notapplicable
+reporting_status: notstarted

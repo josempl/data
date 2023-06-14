@@ -1,0 +1,70 @@
+
+##GENERAL -------------------------------------------------
+
+#required 
+indicator_name: UPO water footprint
+
+
+#required 
+indicator_number: 6.4.2
+
+#required 
+source_active_1: true
+
+#Optional
+source_organisation_1: UPO
+
+#required 
+computation_units: Percentage
+
+#required 
+indicator_available: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
+
+
+#required. Options: not_available, challenges_remain, aproaching_target, target_achieved
+progress_status: not_available
+
+
+#METADATA -------------------------------------------------
+
+#required
+DG_INDICATOR_INFO: >-
+ Goal 6.4	Efficient use of water resources
+
+#required
+SDG_TARGET: >-
+  Goal 6.4	Efficient use of water resources
+
+#required
+SDG_INDICATOR: >-
+  6.4.2	UPO water footprint
+
+#optional
+ORGANISATION_UNIT: >-
+  UPO
+
+#optional
+STAT_CONC_DEF: |
+  #### Indicator type:
+
+  Institutional policy
+
+  #### Linked Area of Action:
+  
+  Efficient resource management
+
+  #### Risk Measurement:
+
+  (!)
+
+
+##GRAPH AND TABLE DATA OPTIONS -------------------------------------------------
+
+#required to show 
+graph_title: UPO water footprint
+
+#required to show graph
+graph_type: line
+
+#required to show. Options: complete, notstarted, notapplicable
+reporting_status: notstarted

@@ -1,0 +1,69 @@
+
+##CONFIG -------------------------------------------------
+
+#required 
+indicator_name: global_indicators.1-4-1-title
+
+#required 
+indicator_number: 1.4.1
+
+#required 
+source_active_1: true
+
+#Optional
+source_organisation_1: UPO
+
+#required 
+computation_units: Percentage
+
+#required 
+indicator_available: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
+
+
+#required. Options: not_available, challenges_remain, aproaching_target, target_achieved
+progress_status: not_available
+
+
+#METADATA -------------------------------------------------
+
+#required
+SDG_INDICATOR_INFO: >-
+ Goal 1.4	Guarantee that vulnerable people have access to basic services
+
+#required
+SDG_TARGET: >-
+  Goal 1.4	Guarantee that vulnerable people have access to basic services
+
+#required
+SDG_INDICATOR: >-
+  1.4.1	Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
+
+#optional
+ORGANISATION_UNIT: >-
+  UPO
+
+#optional
+STAT_CONC_DEF: |
+  #### Indicator type:
+
+  Interest groups
+
+  #### Linked Area of Action:
+  
+  Scholarships and grants
+
+  #### Risk Measurement:
+
+  --
+
+
+##GRAPH AND TABLE DATA OPTIONS -------------------------------------------------
+
+#required to show 
+graph_title: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
+
+#required to show graph
+graph_type: line
+
+#required to show. Options: complete, notstarted, notapplicable
+reporting_status: complete

@@ -1,0 +1,69 @@
+
+##GENERAL -------------------------------------------------
+
+#required 
+indicator_name: Teaching Saturation Index (percentage of credits given with respect to the total possible)
+
+#required 
+indicator_number: 4.3.6
+
+#required 
+source_active_1: true
+
+#Optional
+source_organisation_1: UPO
+
+#required 
+computation_units: Percentage
+
+#required 
+indicator_available: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
+
+
+#required. Options: not_available, challenges_remain, aproaching_target, target_achieved
+progress_status: not_available
+
+
+#METADATA -------------------------------------------------
+
+#required
+DG_INDICATOR_INFO: >-
+ Goal 4.3	Ensure access to quality university education
+
+#required
+SDG_TARGET: >-
+  Goal 4.3	Ensure access to quality university education
+
+#required
+SDG_INDICATOR: >-
+  4.3.6	Teaching Saturation Index (percentage of credits given with respect to the total possible)
+
+#optional
+ORGANISATION_UNIT: >-
+  UPO
+
+#optional
+STAT_CONC_DEF: |
+  #### Indicator type:
+
+  Teaching / Research
+
+  #### Linked Area of Action:
+  
+  Quality
+
+  #### Risk Measurement:
+
+  --
+
+
+##GRAPH AND TABLE DATA OPTIONS -------------------------------------------------
+
+#required to show 
+graph_title: Teaching Saturation Index (percentage of credits given with respect to the total possible)
+
+#required to show graph
+graph_type: line
+
+#required to show. Options: complete, notstarted, notapplicable
+reporting_status: notstarted
