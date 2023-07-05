@@ -1,30 +1,4 @@
 
-##GENERAL -------------------------------------------------
-
-#required 
-indicator_name: Academic/training offer in conservation and sustainable uses of terrestrial ecosystems
-
-
-#required 
-indicator_number: 15.5.4
-
-#required 
-source_active_1: true
-
-#Optional
-source_organisation_1: UPO
-
-#required 
-computation_units: Percentage
-
-#required 
-indicator_available: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
-
-
-#required. Options: not_available, challenges_remain, aproaching_target, target_achieved
-progress_status: not_available
-
-
 #METADATA -------------------------------------------------
 
 #required
@@ -57,13 +31,3 @@ STAT_CONC_DEF: |
   (!)
 
 
-##GRAPH AND TABLE DATA OPTIONS -------------------------------------------------
-
-#required to show 
-graph_title: Academic/training offer in conservation and sustainable uses of terrestrial ecosystems
-
-#required to show graph
-graph_type: line
-
-#required to show. Options: complete, notstarted, notapplicable
-reporting_status: notstarted

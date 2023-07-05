@@ -1,29 +1,3 @@
-
-##GENERAL -------------------------------------------------
-
-#required 
-indicator_name: Degree of satisfaction of the students with the (teaching) UPO
-
-#required 
-indicator_number: 4.3.4
-
-#required 
-source_active_1: true
-
-#Optional
-source_organisation_1: Periphery
-
-#required 
-computation_units: Percentage
-
-#required 
-indicator_available: Percentage (%) of students who receive scholarships or aid for low-income students with respect to the total number of students enrolled UPO
-
-
-#required. Options: not_available, challenges_remain, aproaching_target, target_achieved
-progress_status: not_available
-
-
 #METADATA -------------------------------------------------
 
 #required
@@ -57,12 +31,3 @@ STAT_CONC_DEF: |
 
 
 ##GRAPH AND TABLE DATA OPTIONS -------------------------------------------------
-
-#required to show 
-graph_title: Degree of satisfaction of the students with the (teaching) UPO
-
-#required to show graph
-graph_type: line
-
-#required to show. Options: complete, notstarted, notapplicable
-reporting_status: notstarted
